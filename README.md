@@ -1,4 +1,4 @@
-# Optimization Thinamajibs
+# Optimization Thingymajibs
 stuff i use for optimizing my projects
 
 ## Funkin' packer
