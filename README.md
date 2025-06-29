@@ -31,7 +31,7 @@ You can combine multiple spritesheets into one for sprite batching by importing 
 
 [Rotato](https://tools.rotato.app/compress) is a online lossless FFmpeg powered video optimizer, it reduces its file size without affecting video data.
 <br/>
-UPDATE: they changed the way they compress videos, just choose high quality for lossless compression.
+UPDATE: Rotato changed the way videos get compressed, just choose high quality for lossless compression.
 
 
 ## OptiVorbis
